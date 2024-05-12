@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 The repository is structured to facilitate document summarization, featuring an application for user interaction and a core algorithm suite for processing documents of varying lengths. It includes:
 
 1. An application interface that allows users to input text and receive summarized versions, serving as a demonstration platform.
