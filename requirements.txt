@@ -1,6 +1,6 @@
 openai==1.12.0
 tiktoken
 requests
-langchain==0.1.8
+langchain==0.3.7
 streamlit==1.31.1
 scikit-learn
